@@ -1,6 +1,12 @@
 # Covid19-Dataset-Analysis
 ![](Project%20Pictures/pexels-cdc-3992933.jpg)
-
+## Table of Contents
+- [Introduction](#introduction)
+- [Data Source](#data-source)
+- [Data Cleaning and Transformation](#data-cleaning-and-transformation)
+- [Data Analysis](#data-analysis)
+- [Data Visualization](#data-visualization)
+- [Limitations](#limitations)
 ## Introduction
 Covid-19 is a viral communicable respiratory disease that has led to loss of lives of millions of poeple across the globe. With increasing medical interventions such as vaccines and medication, this analysis seeks to investigate if the disease is being contained. The number of reported confirmed cases and deaths will help to provided this insight.  
 ## Data Source
